@@ -9,12 +9,6 @@ A simple and elegant fullstack task management app built with:
 
 ---
 
-## 📸 Demo
-
-> *(Optional — Add screenshots here later using `![alt](link)`)*
-
----
-
 ## 🚀 Features
 
 - Add, edit, complete, and delete tasks
@@ -33,5 +27,3 @@ A simple and elegant fullstack task management app built with:
 | Backend   | Django, Django REST Framework |
 | Styling   | Tailwind                      |
 | API Comm. | Fetch API (JSON)              |
-
----
