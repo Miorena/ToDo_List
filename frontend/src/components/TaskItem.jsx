@@ -37,7 +37,7 @@ function TaskItem({task, onUpdate, onDelete}) {
     };
 
     return (
-        <div className={'flex items-center justify-between bg-white p-4 rounded shadow border bg-white ${task.is_completed ? "opacity-70" : ""}'}>
+        <div className={'flex items-center justify-between bg-white p-4 rounded shadow border ${task.is_completed ? "opacity-70" : ""}'}>
             <div className="flex items-center gap-2">
                 <input
                 type="checkbox"
